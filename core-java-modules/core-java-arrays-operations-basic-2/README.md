@@ -9,3 +9,4 @@ This module contains articles about Java array fundamentals. They assume no prev
 - [Get the First and the Last Elements From an Array in Java](https://www.baeldung.com/java-array-get-first-last)
 - [Find the Index of the Largest Value in an Array](https://www.baeldung.com/java-array-find-index-maximum)
 - [Checking if an Array Is Null or Empty in Java](https://www.baeldung.com/java-array-check-null-empty)
+- [Check if all Elements in an Array are Equal in Java](https://www.baeldung.com/java-array-check-all-equal)
