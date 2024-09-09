@@ -8,3 +8,4 @@
 - [Check if a Point Is Between Two Points Drawn on a Straight Line in Java](https://www.baeldung.com/java-check-point-straight-line)
 - [Getting Arithmetic Results in the Modulo (10^9 + 7) Format](https://www.baeldung.com/java-modular-arithmetic-operations)
 - [Calculate Percentage Difference Between Two Numbers in Java](https://www.baeldung.com/java-percentage-difference)
+- [Integrate OpenAPI With Spring Cloud Gateway](https://www.baeldung.com/spring-cloud-gateway-integrate-openapi)
