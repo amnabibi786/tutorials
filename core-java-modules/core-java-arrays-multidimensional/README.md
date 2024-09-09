@@ -6,3 +6,4 @@ This module contains articles about multidimensional arrays in Java
 - [Multi-Dimensional Arrays in Java](https://www.baeldung.com/java-jagged-arrays)
 - [Looping Diagonally Through a 2d Java Array](https://www.baeldung.com/java-loop-diagonal-array)
 - [Finding Minimum and Maximum in a 2D Array](https://www.baeldung.com/java-two-dimensional-array-min-max)
+- [Reverse Row of a 2d Array in Java](https://www.baeldung.com/java-twodimensional-array-reverse-row)
